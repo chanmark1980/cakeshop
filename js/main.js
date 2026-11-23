@@ -1,7 +1,7 @@
 // 阿Yan蛋糕店 - js/main.js
 // 1) 改呢度就得: Google Sheets _demo > contact 嘅 Apps Script Web App URL
 // 喺 google-apps-script/Code.gs 部署後，將 URL 貼入下面
-const SHEET_ENDPOINT = "https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec"; // TODO: 換成你真正嘅 Apps Script URL
+const SHEET_ENDPOINT = "https://script.google.com/macros/s/AKfycbzcVorVJNnLKJCkWrkLI--wdiwk7TpIkm7wBsXHMrfe2vDw8Io4qjxHmeEg0p06FV3m/exec"; // TODO: 換成你真正嘅 Apps Script URL
 const WHATSAPP_NUMBER = "85265424488"; // 852-65424488
 
 function pushDL(obj){
